@@ -53,8 +53,7 @@ Once you've completed your Instagram clone, make sure to review the requirements
 
 **PLEASE ADD A PHOTO/VIDEO OF YOUR FINAL PROJECT HERE!:**
 
-[YOUR PHOTO/VIDEO GOES HERE]
-
+![Screenshot 2024-11-13 223355](https://github.com/user-attachments/assets/7ca0fbc3-37f7-4afd-98dd-c32ed36df70c)
 
 ## Resources
 Please remember that while you're working on this assignment, you can always refer to:
